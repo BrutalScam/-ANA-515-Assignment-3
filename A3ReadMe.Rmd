@@ -1,0 +1,50 @@
+---
+title: "1997 Storm Events - A3"
+author: "Prasanth"
+date: "2023-06-26"
+output: word_document
+---
+
+
+# Overview
+
+in Assignment 3, storm events data for the year 1997 forms the focus of the tasks. The tasks involve data preparation through filtering renaming and merging for the data. Along with the 1997 storm events data, the inbuilt states data is utilized.
+
+
+# Packages Installation 
+
+install.packages("tidyverse")
+install.packages("stringr")
+
+
+# Packages Loading
+
+library(tidyverse)
+library(stringr)
+
+
+
+# Steps
+
+10 Steps are included in the task:
+
+1. Storm Data Sorting
+
+2. Data Filtration 1
+
+3. Data Arranging 
+
+4. Entry Case Change
+
+5. Data Filtration 2
+
+6. Column Padding and Merging
+
+7. Column Name Case Change
+
+8. State Data Incorporation
+
+9. Data frames Merging 
+
+10. Visualization
+
